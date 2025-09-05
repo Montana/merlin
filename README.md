@@ -1,5 +1,7 @@
 # merlin
 
+<img width="500" height="500" alt="Quant Point (3)" src="https://github.com/user-attachments/assets/9da91c5a-326d-4f06-aed9-77632661792e" />
+
 a lightweight command-line utility built in elixir that provides essential tools for developers: uuid generation, password creation, json formatting, text processing, hashing, encoding, time utilities, and filesystem operations with beautiful table formatting.
 
 ## installation
